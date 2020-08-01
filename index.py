@@ -1,1 +1,2 @@
 # selam
+print("hello world")
