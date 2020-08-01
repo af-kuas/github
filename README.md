@@ -12,13 +12,12 @@ GitHub komut satırını kullanırken kullanabileceğiniz yüzlerce komut vardı
 
 [![Alt text](https://img.youtube.com/vi/fnxi12JLhNY/0.jpg)](https://www.youtube.com/watch?v=fnxi12JLhNY)
 
-
 ## Sık Kullanılan GitHub Terimleri
 
 ### Repository
 
 Kelime anlamı: depo, veri deposu, veri havuzu.
-
+asdwadw
 Projenin bütün dosya ve klasörlerini içinde tutan veritabanı gibi düşünülebilir. Her bir proje, GitHub'da bir repository olarak tutulabilir. Sadece dosyalar değil, dosyalarda yapılan değişikliklerin geçmişi de burada tutulur.
 
 Bir repository birden fazla kullanıcı arasında paylaşılabilir ve kopyalanabilir (bkz: fork).
